@@ -2,7 +2,8 @@ language: ruby
 rvm: 2.0.0
 deploy:
   provider: heroku
-  api_key: 03dcc037-28f5-4a24-8eed-c0dacf815fe4
-  app: sydneytesters
+  email: lnkhai@gmail.com
+  api_key: e5b39053-1d40-48f5-9afa-cf4e9b3161a6
+  app: khai-learn-ci
   on:
-    repo: hdushan/quickquote
+    repo: lnkhai/quickquote
