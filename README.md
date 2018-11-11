@@ -3,10 +3,10 @@ quickquote
 
 An Insurance Quote app for the Sydney Testers "Faster Tests, Faster Feedback" workshop.
 
-####URL for the webapp, hosted on heroku: 
+#### URL for the webapp, hosted on heroku: 
 http://sydneytesters.herokuapp.com/
 
-####Things to have setup on your machine 
+#### Things to have setup on your machine 
 (just google them to find installers):
 
 1. git
